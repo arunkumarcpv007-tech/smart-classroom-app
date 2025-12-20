@@ -1,0 +1,8 @@
+{
+  "name": "Smart Classroom Manager",
+  "description": "A comprehensive digital platform for schools to manage attendance, assignments, notes, and student performance with role-based access for Admins, Teachers, and Students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
