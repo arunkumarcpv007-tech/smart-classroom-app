@@ -5,6 +5,9 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
+      // Indha line dhaan romba mukkiyam GitHub Pages ku!
+      base: '/smart-classroom-app/', 
+      
       server: {
         port: 3000,
         host: '0.0.0.0',
